@@ -1,0 +1,111 @@
+2020-07-06 23:31:45 INFO  BubbleSort:9 - Start bubbleSort
+2020-07-06 23:32:20 INFO  BubbleSort:18 - End  bubbleSort
+2020-07-06 23:32:20 DEBUG Main:50 - Time of public static void util.BubbleSort.bubbleSort(int[]) throws java.lang.NoSuchMethodException = 35975523400
+2020-07-06 23:32:21 INFO  InsertionSort:8 - Start insertionSort
+2020-07-06 23:32:23 INFO  InsertionSort:20 - End insertionSort
+2020-07-06 23:32:23 DEBUG Main:58 - Time of public static void util.InsertionSort.insertionSort(int[]) throws java.lang.NoSuchMethodException = 2084736000
+2020-07-06 23:32:23 DEBUG Main:66 - Time of public static void util.MergeSort.mergeSort(int[],int,int) throws java.lang.NoSuchMethodException = 59212900
+2020-07-06 23:32:23 DEBUG Main:74 - Time of public static void util.QuickSort.quickSort(int[],int,int) throws java.lang.NoSuchMethodException = 35925000
+2020-07-06 23:32:23 INFO  SelectionSort:8 - Start selectionSort
+2020-07-06 23:32:33 INFO  SelectionSort:25 - End selectionSort
+2020-07-06 23:32:33 DEBUG Main:82 - Time of public static void util.SelectionSort.selectionSort(int[]) throws java.lang.NoSuchMethodException = 10749022901
+2020-07-06 23:32:33 INFO  ShellSort:8 - Start shellSort
+2020-07-06 23:32:33 INFO  ShellSort:27 - End shellSort
+2020-07-06 23:32:33 DEBUG Main:90 - Time of public static void util.ShellSort.shellSort(int[]) throws java.lang.NoSuchMethodException = 38814500
+2020-07-06 23:32:33 INFO  ShuttleSort:8 - Start shuttleSort
+2020-07-06 23:32:35 INFO  ShuttleSort:23 - End shuttleSort
+2020-07-06 23:32:35 DEBUG Main:98 - Time of public static void util.ShuttleSort.shuttleSort(int[],int) throws java.lang.NoSuchMethodException = 1038930300
+2020-07-06 23:32:35 DEBUG Main:102 - Start public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:32:35 DEBUG Main:106 - End public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:32:35 DEBUG Main:108 - Time of public static void java.util.Collections.sort(java.util.List) from class java.util.Collections = 72569301
+2020-07-06 23:32:35 INFO  BubbleSort:9 - Start bubbleSort
+2020-07-06 23:32:56 INFO  BubbleSort:18 - End  bubbleSort
+2020-07-06 23:32:56 DEBUG Main:50 - Time of public static void util.BubbleSort.bubbleSort(int[]) throws java.lang.NoSuchMethodException = 21169108400
+2020-07-06 23:32:56 INFO  InsertionSort:8 - Start insertionSort
+2020-07-06 23:32:57 INFO  InsertionSort:20 - End insertionSort
+2020-07-06 23:32:57 DEBUG Main:58 - Time of public static void util.InsertionSort.insertionSort(int[]) throws java.lang.NoSuchMethodException = 1172560201
+2020-07-06 23:32:57 DEBUG Main:66 - Time of public static void util.MergeSort.mergeSort(int[],int,int) throws java.lang.NoSuchMethodException = 15844299
+2020-07-06 23:32:57 DEBUG Main:74 - Time of public static void util.QuickSort.quickSort(int[],int,int) throws java.lang.NoSuchMethodException = 16807699
+2020-07-06 23:32:57 INFO  SelectionSort:8 - Start selectionSort
+2020-07-06 23:33:03 INFO  SelectionSort:25 - End selectionSort
+2020-07-06 23:33:03 DEBUG Main:82 - Time of public static void util.SelectionSort.selectionSort(int[]) throws java.lang.NoSuchMethodException = 6318336200
+2020-07-06 23:33:03 INFO  ShellSort:8 - Start shellSort
+2020-07-06 23:33:03 INFO  ShellSort:27 - End shellSort
+2020-07-06 23:33:03 DEBUG Main:90 - Time of public static void util.ShellSort.shellSort(int[]) throws java.lang.NoSuchMethodException = 21523601
+2020-07-06 23:33:03 INFO  ShuttleSort:8 - Start shuttleSort
+2020-07-06 23:33:05 INFO  ShuttleSort:23 - End shuttleSort
+2020-07-06 23:33:05 DEBUG Main:98 - Time of public static void util.ShuttleSort.shuttleSort(int[],int) throws java.lang.NoSuchMethodException = 1232687601
+2020-07-06 23:33:05 DEBUG Main:102 - Start public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:05 DEBUG Main:106 - End public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:05 DEBUG Main:108 - Time of public static void java.util.Collections.sort(java.util.List) from class java.util.Collections = 24106100
+2020-07-06 23:33:05 INFO  BubbleSort:9 - Start bubbleSort
+2020-07-06 23:33:22 INFO  BubbleSort:18 - End  bubbleSort
+2020-07-06 23:33:22 DEBUG Main:50 - Time of public static void util.BubbleSort.bubbleSort(int[]) throws java.lang.NoSuchMethodException = 17470728401
+2020-07-06 23:33:22 INFO  InsertionSort:8 - Start insertionSort
+2020-07-06 23:33:23 INFO  InsertionSort:20 - End insertionSort
+2020-07-06 23:33:23 DEBUG Main:58 - Time of public static void util.InsertionSort.insertionSort(int[]) throws java.lang.NoSuchMethodException = 1001668300
+2020-07-06 23:33:23 DEBUG Main:66 - Time of public static void util.MergeSort.mergeSort(int[],int,int) throws java.lang.NoSuchMethodException = 20921201
+2020-07-06 23:33:23 DEBUG Main:74 - Time of public static void util.QuickSort.quickSort(int[],int,int) throws java.lang.NoSuchMethodException = 10294999
+2020-07-06 23:33:23 INFO  SelectionSort:8 - Start selectionSort
+2020-07-06 23:33:27 INFO  SelectionSort:25 - End selectionSort
+2020-07-06 23:33:27 DEBUG Main:82 - Time of public static void util.SelectionSort.selectionSort(int[]) throws java.lang.NoSuchMethodException = 3724887700
+2020-07-06 23:33:27 INFO  ShellSort:8 - Start shellSort
+2020-07-06 23:33:27 INFO  ShellSort:27 - End shellSort
+2020-07-06 23:33:27 DEBUG Main:90 - Time of public static void util.ShellSort.shellSort(int[]) throws java.lang.NoSuchMethodException = 27523900
+2020-07-06 23:33:27 INFO  ShuttleSort:8 - Start shuttleSort
+2020-07-06 23:33:28 INFO  ShuttleSort:23 - End shuttleSort
+2020-07-06 23:33:28 DEBUG Main:98 - Time of public static void util.ShuttleSort.shuttleSort(int[],int) throws java.lang.NoSuchMethodException = 1344106899
+2020-07-06 23:33:28 DEBUG Main:102 - Start public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:28 DEBUG Main:106 - End public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:28 DEBUG Main:108 - Time of public static void java.util.Collections.sort(java.util.List) from class java.util.Collections = 23141900
+2020-07-06 23:33:28 INFO  BubbleSort:9 - Start bubbleSort
+2020-07-06 23:33:51 INFO  BubbleSort:18 - End  bubbleSort
+2020-07-06 23:33:51 DEBUG Main:50 - Time of public static void util.BubbleSort.bubbleSort(int[]) throws java.lang.NoSuchMethodException = 22845900501
+2020-07-06 23:33:51 INFO  InsertionSort:8 - Start insertionSort
+2020-07-06 23:33:52 INFO  InsertionSort:20 - End insertionSort
+2020-07-06 23:33:52 DEBUG Main:58 - Time of public static void util.InsertionSort.insertionSort(int[]) throws java.lang.NoSuchMethodException = 1088994600
+2020-07-06 23:33:52 DEBUG Main:66 - Time of public static void util.MergeSort.mergeSort(int[],int,int) throws java.lang.NoSuchMethodException = 12136000
+2020-07-06 23:33:52 DEBUG Main:74 - Time of public static void util.QuickSort.quickSort(int[],int,int) throws java.lang.NoSuchMethodException = 8557200
+2020-07-06 23:33:52 INFO  SelectionSort:8 - Start selectionSort
+2020-07-06 23:33:58 INFO  SelectionSort:25 - End selectionSort
+2020-07-06 23:33:58 DEBUG Main:82 - Time of public static void util.SelectionSort.selectionSort(int[]) throws java.lang.NoSuchMethodException = 5794828200
+2020-07-06 23:33:58 INFO  ShellSort:8 - Start shellSort
+2020-07-06 23:33:58 INFO  ShellSort:27 - End shellSort
+2020-07-06 23:33:58 DEBUG Main:90 - Time of public static void util.ShellSort.shellSort(int[]) throws java.lang.NoSuchMethodException = 14397100
+2020-07-06 23:33:58 INFO  ShuttleSort:8 - Start shuttleSort
+2020-07-06 23:33:59 INFO  ShuttleSort:23 - End shuttleSort
+2020-07-06 23:33:59 DEBUG Main:98 - Time of public static void util.ShuttleSort.shuttleSort(int[],int) throws java.lang.NoSuchMethodException = 1187672401
+2020-07-06 23:33:59 DEBUG Main:102 - Start public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:59 DEBUG Main:106 - End public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:33:59 DEBUG Main:108 - Time of public static void java.util.Collections.sort(java.util.List) from class java.util.Collections = 20842099
+2020-07-06 23:33:59 INFO  BubbleSort:9 - Start bubbleSort
+2020-07-06 23:34:21 INFO  BubbleSort:18 - End  bubbleSort
+2020-07-06 23:34:21 DEBUG Main:50 - Time of public static void util.BubbleSort.bubbleSort(int[]) throws java.lang.NoSuchMethodException = 21971710399
+2020-07-06 23:34:21 INFO  InsertionSort:8 - Start insertionSort
+2020-07-06 23:34:22 INFO  InsertionSort:20 - End insertionSort
+2020-07-06 23:34:22 DEBUG Main:58 - Time of public static void util.InsertionSort.insertionSort(int[]) throws java.lang.NoSuchMethodException = 1217987600
+2020-07-06 23:34:22 DEBUG Main:66 - Time of public static void util.MergeSort.mergeSort(int[],int,int) throws java.lang.NoSuchMethodException = 12022900
+2020-07-06 23:34:22 DEBUG Main:74 - Time of public static void util.QuickSort.quickSort(int[],int,int) throws java.lang.NoSuchMethodException = 8595400
+2020-07-06 23:34:22 INFO  SelectionSort:8 - Start selectionSort
+2020-07-06 23:34:28 INFO  SelectionSort:25 - End selectionSort
+2020-07-06 23:34:28 DEBUG Main:82 - Time of public static void util.SelectionSort.selectionSort(int[]) throws java.lang.NoSuchMethodException = 5507624799
+2020-07-06 23:34:28 INFO  ShellSort:8 - Start shellSort
+2020-07-06 23:34:28 INFO  ShellSort:27 - End shellSort
+2020-07-06 23:34:28 DEBUG Main:90 - Time of public static void util.ShellSort.shellSort(int[]) throws java.lang.NoSuchMethodException = 14601400
+2020-07-06 23:34:28 INFO  ShuttleSort:8 - Start shuttleSort
+2020-07-06 23:34:29 INFO  ShuttleSort:23 - End shuttleSort
+2020-07-06 23:34:29 DEBUG Main:98 - Time of public static void util.ShuttleSort.shuttleSort(int[],int) throws java.lang.NoSuchMethodException = 1083305099
+2020-07-06 23:34:29 DEBUG Main:102 - Start public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:34:29 DEBUG Main:106 - End public static void java.util.Collections.sort(java.util.List) from class java.util.Collections
+2020-07-06 23:34:29 DEBUG Main:108 - Time of public static void java.util.Collections.sort(java.util.List) from class java.util.Collections = 22706001
+2020-07-06 23:34:29 INFO  Main:120 - 
+ --- Рейтинг ---
+
+2020-07-06 23:34:29 INFO  Main:142 - 1 - QuickSort: 80180298
+2020-07-06 23:34:29 INFO  Main:142 - 2 - ShellSort: 116860501
+2020-07-06 23:34:29 INFO  Main:142 - 3 - MergeSort: 120137300
+2020-07-06 23:34:29 INFO  Main:142 - 4 - CollectionsSort: 163365401
+2020-07-06 23:34:29 INFO  Main:142 - 5 - ShuttleSort: 5886702300
+2020-07-06 23:34:29 INFO  Main:142 - 6 - InsertionSort: 6565946701
+2020-07-06 23:34:29 INFO  Main:142 - 7 - SelectionSort: 32094699800
+2020-07-06 23:34:29 INFO  Main:142 - 8 - BubbleSort: 119432971101
